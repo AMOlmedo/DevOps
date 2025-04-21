@@ -1,3 +1,3 @@
 miLista=["adri", "marti", "marce"]
 
-print(miLista)
+print(miLista[1:2])
