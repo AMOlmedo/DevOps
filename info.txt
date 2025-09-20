@@ -1,0 +1,3 @@
+Comando varios:
+
+multipass launch --name server  # para crear una vm dentro del wsl2
