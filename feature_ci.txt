@@ -1,0 +1,2 @@
+# GUIA CONTINUOUS INTEGRATIONS (DaveOps)
+por convencion se crea una branch -b feat/ci para este caso
